@@ -1,9 +1,7 @@
 Olá, sou Gabriel Nepomuceno 👋
 
-- 🔭 Focado em serviços de dados, desde criações e gerenciamento de banco até analista de dados
+- 🔭 Focado em serviços de dados.
 - 🌱 Estudando Python, AWS, Google Cloud, SQL, Big Query e Pwer BI
-- 😄 Pronome: Ele/dele
-
 
 ### Olá, sou Gabriel Nepomuceno! 🖐👋
 
