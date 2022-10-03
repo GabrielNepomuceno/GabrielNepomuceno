@@ -4,15 +4,19 @@ Olá, sou Gabriel Nepomuceno 👋
 - 🌱 Estudando Python, AWS, Google Cloud, SQL, Big Query e Pwer BI
 - 😄 Pronome: Ele/dele
 
-<div>
-  <a href="https://github.com/GabrielNepomuceno">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNepomuceno&show_icons=true&theme=dark&include_all_commits=true&count_private=tre" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNepomuceno&layout=compact&langs_count=16&theme=dark"/>
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Pandas" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg" />   
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />     
-</div>                                                                                                                                                                                                                                                                                        
-##
+### Olá, sou Gabriel Nepomuceno! 🖐👋
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://github.com/GabrielNepomuceno)
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNepomuceno&show_icons=true&theme=onedark)
+
+## Tecnologia que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/>
+<img align="center" alt="R" src=https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white>
+<img align="center" alt="Excel" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
+<img align="center" alt="Mysql" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
+<img align="center" alt="Mysql" src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white>
+<img align="center" alt="Mysql" src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>
