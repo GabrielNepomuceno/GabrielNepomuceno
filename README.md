@@ -1,15 +1,16 @@
-Olá, sou Gabriel Nepomuceno 👋
-
+### Olá, sou Gabriel Nepomuceno! 🖐👋
 - 🔭 Focado em serviços de dados.
 - 🌱 Estudando Python, AWS, Google Cloud, SQL, Big Query e Pwer BI
 
-### Olá, sou Gabriel Nepomuceno! 🖐👋
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nepomuceno-45a977136/)
-
+##
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNepomuceno&show_icons=true&theme=onedark)
 
-## Conhecimento:
+##
+### Contato:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nepomuceno-45a977136/)
+
+##
+### Conhecimento:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
