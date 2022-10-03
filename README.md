@@ -7,7 +7,7 @@ Olá, sou Gabriel Nepomuceno 👋
 
 ### Olá, sou Gabriel Nepomuceno! 🖐👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://github.com/GabrielNepomuceno)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nepomuceno-45a977136/)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNepomuceno&show_icons=true&theme=onedark)
 
