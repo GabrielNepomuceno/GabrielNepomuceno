@@ -1,6 +1,6 @@
 ### Olá, sou Gabriel Nepomuceno! 🖐👋
 - 🔭 Focado em serviços de dados.
-- 🌱 Estudando Python, AWS, Google Cloud, SQL, Big Query e Pwer BI
+- 🌱 Estudando Python, AWS, Google Cloud, SQL, Big Query e Power BI
 
 ##
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNepomuceno&show_icons=true&theme=onedark)
